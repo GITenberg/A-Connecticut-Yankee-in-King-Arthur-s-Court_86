@@ -1,0 +1,80 @@
+_repo: A-Connecticut-Yankee-in-King-Arthur-s-Court_86
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 86/86-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Twain, Mark (Samuel Clemens)
+    - Clemens, Samuel Langhorne
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: "A Connecticut Yankee in King Arthur's Court is an 1889 novel by the\
+  \ American humorist and writer Mark Twain. The book was originally titled A Yankee\
+  \ in King Arthur's Court. Some early editions are titled A Yankee at the Court of\
+  \ King Arthur.\nIn the book, a Yankee engineer from Connecticut is accidentally\
+  \ transported back in time to the court of King Arthur, where he fools the inhabitants\
+  \ of that time into thinking he is a magician—and soon uses his knowledge of modern\
+  \ technology to become a \"magician\" in earnest, stunning the English of the Early\
+  \ Middle Ages with such feats as demolitions, fireworks and the shoring up of a\
+  \ holy well. He attempts to modernize the past, but in the end he is unable to prevent\
+  \ the death of Arthur and an interdict against him by the Catholic Church of the\
+  \ time, which grows fearful of his power.\nTwain wrote the book as a burlesque of\
+  \ Romantic notions of chivalry after being inspired by a dream in which he was a\
+  \ knight himself, and severely inconvenienced by the weight and cumbersome nature\
+  \ of his armor.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Arthurian Legends
+- Precursors of Science Fiction
+gutenberg_issued: '2004-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '86'
+  wikidata: Q848612
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Britons -- Fiction'
+- !lcsh 'Knights and knighthood -- Fiction'
+- !lcsh 'Satire'
+- !lcsh 'Americans -- Great Britain -- Fiction'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Time travel -- Fiction'
+- !lcsh 'Kings and rulers -- Fiction'
+- !lcsh 'Arthurian romances -- Adaptations'
+- !lcc 'PS'
+- GITenberg
+title: A Connecticut Yankee in King Arthur's Court
+url: http://www.gutenberg.org/ebooks/86
+wikipedia:
+- https://fi.wikipedia.org/wiki/Jenkki_kuningas_Arthurin_hovissa
+- https://fa.wikipedia.org/wiki/%DB%8C%DA%A9_%DB%8C%D8%A7%D9%86%DA%A9%DB%8C_%D8%A7%D9%87%D9%84_%DA%A9%D9%86%D8%AA%DB%8C%DA%A9%D8%AA_%D8%AF%D8%B1_%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1_%D8%B4%D8%A7%D9%87_%D8%A2%D8%B1%D8%AA%D9%88%D8%B1
+- https://ru.wikisource.org/wiki/%D0%AF%D0%BD%D0%BA%D0%B8_%D0%B8%D0%B7_%D0%9A%D0%BE%D0%BD%D0%BD%D0%B5%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D1%82%D0%B0_%D0%BF%D1%80%D0%B8_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5_%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D1%8F_%D0%90%D1%80%D1%82%D1%83%D1%80%D0%B0_(%D0%A2%D0%B2%D0%B5%D0%BD)
+- https://en.wikisource.org/wiki/A_Connecticut_Yankee_in_King_Arthur%27s_Court
+- https://uk.wikipedia.org/wiki/%D0%AF%D0%BD%D0%BA%D1%96_%D0%B7_%D0%9A%D0%BE%D0%BD%D0%BD%D0%B5%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D1%82%D1%83_%D0%BF%D1%80%D0%B8_%D0%B4%D0%B2%D0%BE%D1%80%D1%96_%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D1%8F_%D0%90%D1%80%D1%82%D1%83%D1%80%D0%B0
+- https://el.wikipedia.org/wiki/%CE%88%CE%BD%CE%B1%CF%82_%CE%93%CE%B9%CE%AC%CE%BD%CE%BA%CE%B7%CF%82_%CF%84%CE%BF%CF%85_%CE%9A%CE%BF%CE%BD%CE%AD%CE%BA%CF%84%CE%B9%CE%BA%CE%B1%CF%84_%CF%83%CF%84%CE%B7%CE%BD_%CE%B1%CF%85%CE%BB%CE%AE_%CF%84%CE%BF%CF%85_%CE%B2%CE%B1%CF%83%CE%B9%CE%BB%CE%B9%CE%AC_%CE%91%CF%81%CE%B8%CE%BF%CF%8D%CF%81%CE%BF%CF%85
+- https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%82%B5%E3%83%BC%E7%8E%8B%E5%AE%AE%E5%BB%B7%E3%81%AE%E3%82%B3%E3%83%8D%E3%83%81%E3%82%AB%E3%83%83%E3%83%88%E3%83%BB%E3%83%A4%E3%83%B3%E3%82%AD%E3%83%BC
+- https://es.wikipedia.org/wiki/Un_yanqui_en_la_corte_del_rey_Arturo
+- https://en.wikipedia.org/wiki/A_Connecticut_Yankee_in_King_Arthur%27s_Court
+- https://ru.wikipedia.org/wiki/%D0%AF%D0%BD%D0%BA%D0%B8_%D0%B8%D0%B7_%D0%9A%D0%BE%D0%BD%D0%BD%D0%B5%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D1%82%D0%B0_%D0%BF%D1%80%D0%B8_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5_%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D1%8F_%D0%90%D1%80%D1%82%D1%83%D1%80%D0%B0
+- https://fr.wikipedia.org/wiki/Un_Yankee_%C3%A0_la_cour_du_roi_Arthur
+- https://da.wikipedia.org/wiki/En_Yankee_hos_ridderne_om_det_runde_bord
+- https://simple.wikipedia.org/wiki/A_Connecticut_Yankee_in_King_Arthur%27s_Court
+- https://sv.wikipedia.org/wiki/En_yankee_vid_kung_Arthurs_hov
+- https://hu.wikipedia.org/wiki/Egy_jenki_Arthur_kir%C3%A1ly_udvar%C3%A1ban
+- https://ar.wikipedia.org/wiki/%D9%8A%D8%A7%D9%86%D9%83%D9%8A_%D9%85%D9%86_%D9%83%D9%88%D9%86%D9%8A%D8%AA%D9%8A%D9%83%D8%AA_%D9%81%D9%8A_%D8%A8%D9%84%D8%A7%D8%B7_%D8%A7%D9%84%D9%85%D9%84%D9%83_%D8%A2%D8%B1%D8%AB%D8%B1
+- https://id.wikipedia.org/wiki/A_Connecticut_Yankee_in_King_Arthur%27s_Court
+- https://cs.wikipedia.org/wiki/Yankee_z_Connecticutu_na_dvo%C5%99e_kr%C3%A1le_Artu%C5%A1e
+- https://de.wikipedia.org/wiki/Ein_Yankee_am_Hofe_des_K%C3%B6nig_Artus
+- https://it.wikipedia.org/wiki/Un_americano_alla_corte_di_re_Art%C3%B9
+- https://ca.wikipedia.org/wiki/Un_ianqui_a_la_cort_del_Rei_Art%C3%BAs
+- https://he.wikipedia.org/wiki/%D7%99%D7%A0%D7%A7%D7%99_%D7%9E%D7%A7%D7%95%D7%A0%D7%98%D7%99%D7%A7%D7%98_%D7%91%D7%97%D7%A6%D7%A8_%D7%94%D7%9E%D7%9C%D7%9A_%D7%90%D7%A8%D7%AA%D7%95%D7%A8
