@@ -1,10 +1,8 @@
 _repo: A-Connecticut-Yankee-in-King-Arthur-s-Court_86
-_version: 0.1.0
+_version: 0.2.0
 covers:
 - cover_type: archival
-  image_path: 86/86-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 86-h/images/bookcover.jpg
 creator:
   author:
     agent_name: Twain, Mark
@@ -30,6 +28,8 @@ description: "A Connecticut Yankee in King Arthur's Court is an 1889 novel by th
   \ Romantic notions of chivalry after being inspired by a dream in which he was a\
   \ knight himself, and severely inconvenienced by the weight and cumbersome nature\
   \ of his armor.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/86#A-Connecticut-Yankee-in-King-Arthur-s-Court
 gutenberg_bookshelf:
 - Arthurian Legends
 - Precursors of Science Fiction
